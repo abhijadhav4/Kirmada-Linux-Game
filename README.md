@@ -25,7 +25,7 @@ Join Bheem on his mission to gather intelligence and outsmart the villain Kirmad
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/abhijadhav4/Kirmada-Linux-Game.git](https://github.com/abhijadhav4/Kirmada-Linux-Game.git)
+    git clone https://github.com/abhijadhav4/Kirmada-Linux-Game.git (https://github.com/abhijadhav4/Kirmada-Linux-Game.git)
     cd Kirmada-Linux-Game
     ```
 
